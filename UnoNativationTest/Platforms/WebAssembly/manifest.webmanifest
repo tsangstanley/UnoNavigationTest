@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "UnoNativationTest",
+  "display": "standalone",
+  "name": "UnoNativationTest",
+  "short_name": "UnoNativationTest",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
